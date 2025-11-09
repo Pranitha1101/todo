@@ -1,0 +1,70 @@
+/* .navb{
+    background-color: #e7e3e3;
+    overflow: hidden;
+}   
+.navb a{
+    float: left;
+    display: inline;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.display{
+    margin-top: 200px;
+    /* //border: solid black; */
+    /* padding: 10px;
+} */
+ /* App.css */
+
+/* Reset some basic styles */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f9f9f9;
+}
+
+/* Navigation bar styling */
+nav {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Page layout */
+h1, h2 {
+  text-align: center;
+  color: #333;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  margin: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Content container */
+div {
+  text-align: center;
+  margin-top: 20px;
+}
